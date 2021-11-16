@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "335HZWRkbiD2EeKONwvCRYigdqQOXcFRNLtS7Bdzngkc3+pkEAj3yPnSi8H3oK4YDNeop/GFbv26o8iMPt8/qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\KemihAdawiyahTugas1\\Tugas1KemihAdawiyah\\Tugas1KemihAdawiyah\\Tugas1KemihAdawiyah.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
